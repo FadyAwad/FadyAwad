@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fady Motir, Welcome To My Github Profile✌🏼</h1>
 <h3 align="center">A Passionate Machine Learning Engineer</h3>
 
-<img align="right"  alt="Coding"  width="400"  src="https://photos.google.com/photo/AF1QipMVLeSTiMiOhab8j0UQqqm7F77oh82IwgJEs8R8">
+<img align="right"  alt="Coding"  width="400"  src="https://photos.app.goo.gl/iMqJ5n1QdEY2MkYg8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadyawad&label=Profile%20views&color=0e75b6&style=flat" alt="fadyawad" /> </p>
 

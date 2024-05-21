@@ -1,7 +1,8 @@
+![AlphaAI1_auto_x2](https://github.com/FadyAwad/FadyAwad/assets/103905338/d95c0c71-834b-420f-9eaa-2c576f5bdab6)
 <h1 align="center">Hi 👋, I'm Fady Motir, Welcome To My Github Profile✌🏼</h1>
 <h3 align="center">A Passionate Machine Learning Engineer</h3>
 
-<img align="right"  alt="Coding"  width="400"  src="![AlphaAI1_auto_x2](https://github.com/FadyAwad/FadyAwad/assets/103905338/d95c0c71-834b-420f-9eaa-2c576f5bdab6)">
+<img align="right"  alt="Coding"  width="400"  src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadyawad&label=Profile%20views&color=0e75b6&style=flat" alt="fadyawad" /> </p>
 

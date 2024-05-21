@@ -1,4 +1,4 @@
-![AlphaAI1_auto_x2](https://github.com/FadyAwad/FadyAwad/assets/103905338/d95c0c71-834b-420f-9eaa-2c576f5bdab6)
+![logo](https://github.com/FadyAwad/FadyAwad/assets/103905338/bbff845b-a331-44b5-8c23-dbee9074fe1d)
 <h1 align="center">Hi 👋, I'm Fady Motir, Welcome To My Github Profile✌🏼</h1>
 <h3 align="center">A Passionate Machine Learning Engineer</h3>
 

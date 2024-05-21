@@ -1,3 +1,5 @@
+![AlphaAI1_auto_x2](https://github.com/FadyAwad/FadyAwad/assets/103905338/2ea8ad24-fb93-409a-9554-2a686cceea63)
+
 <h1 align="center">Hi 👋, I'm Fady Motir, Welcome To My Github Profile✌🏼</h1>
 <h3 align="center">A Passionate Machine Learning Engineer</h3>
 

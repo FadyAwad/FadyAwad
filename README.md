@@ -1,4 +1,3 @@
-![ALPHA gif (1)](https://github.com/FadyAwad/FadyAwad/assets/103905338/ae14d792-5f93-4780-b196-4fecd57fa8a2)
 <h1 align="center">Hi 👋, I'm Fady Motir, Welcome To My Github Profile✌🏼</h1>
 <h3 align="center">A Passionate Machine Learning Engineer</h3>
 
@@ -29,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadyawad&show_icons=true&locale=en" alt="fadyawad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadyawad&" alt="fadyawad" /></p>
+![ALPHA gif (1)](https://github.com/FadyAwad/FadyAwad/assets/103905338/ae14d792-5f93-4780-b196-4fecd57fa8a2)

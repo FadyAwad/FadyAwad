@@ -1,4 +1,4 @@
-<img align="center" src=" ![ALPHA gif (1)](https://github.com/FadyAwad/FadyAwad/assets/103905338/5c60c880-9eb9-4d79-949d-b42bec9f1f86)">
+<img align="center" src=" ![ALPHA gif (1)](https://github.com/FadyAwad/FadyAwad/assets/103905338/5c60c880-9eb9-4d79-949d-b42bec9f1f86).">
 <h1 align="center">Hi 👋, I'm Fady Motir, Welcome To My Github Profile✌🏼</h1>
 <h3 align="center">A Passionate Machine Learning Engineer</h3>
 

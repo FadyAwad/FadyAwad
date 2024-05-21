@@ -1,4 +1,4 @@
-<img align="right"  alt="Coding"  width="800"  src="file:///D:/Team%20Logo/AlphaAI1_auto_x2.jpg">
+<img align="right"   width="800"  src="file:///D:/Team%20Logo/AlphaAI1_auto_x2.jpg">
 <h1 align="center">Hi 👋, I'm Fady Motir, Welcome To My Github Profile✌🏼</h1>
 <h3 align="center">A Passionate Machine Learning Engineer</h3>
 
